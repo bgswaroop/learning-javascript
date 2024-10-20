@@ -1,4 +1,8 @@
 # Session 1
+> Basics of JavaScript. Starting from HelloWorld!
+
+
+### Notes on videos
 
 **JavaScript Tutorial**: Run JavaScript in Sublime Text with a NodeJS Build System
 https://www.youtube.com/watch?v=1iPs43TppOY&t
@@ -9,12 +13,12 @@ https://www.youtube.com/watch?v=1iPs43TppOY&t
 **JavaScript Tutorial for Beginners**: Learn JavaScript in 1 Hour
 https://www.youtube.com/watch?v=W6NZfCO5SIk&t
 - Javascript is used to build interactive web pages
-- Javascript can be run inside a `browswer` or a `node`. 
+- Javascript can be run inside a `browser` or a `node`. 
   - To run javascript on your system/applications, we need to install node
-  - We can directly run it in browser. Right click --> Inspect --> Console (Tab) --> Start typing Javascript commands
+  - We can directly run it in the browser. Right click --> Inspect --> Console (Tab) --> Start typing Javascript commands
 
 
-- Principle of seperation of concerns
+- Principle of separation of concerns
   - We use javascript to implement behaviour
 
 ### Description of files
